@@ -43,7 +43,7 @@ namespace BaiGuiXe_Smart_API.Controllers
             var x = xm_mod.Find(code);
             if (x != null)
             {
-                if (sosanhngay(x.Timer,DateTime.Now) >=3)
+                if (sosanhngay(x.Timer,DateTime.Now) >3)
                 {
                     xm_mod.Delete(code);
                     return -1; // code hết hạn sử dụng
@@ -103,7 +103,7 @@ namespace BaiGuiXe_Smart_API.Controllers
             if (flag == 1)
             {
                 string body = System.IO.File.ReadAllText(HostingEnvironment.MapPath("~/Views/" + "Email" + ".cshtml"));
-                var url = "http://localhost:51332/" + "Verification/XacNhanEmail?code="+xm.Code;
+                var url = "http://localhost:8080/" + "Verification/XacNhanEmail?code="+xm.Code;
                 body = body.Replace("@ViewBag.linkxacnhan", url);
                 body = body.ToString();
                 builEmail("Thư xác minh !", body, x.Email);

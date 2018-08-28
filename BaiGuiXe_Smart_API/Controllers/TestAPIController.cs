@@ -9,7 +9,7 @@ using BaiGuiXe_Smart_API.Models;
 namespace BaiGuiXe_Smart_API.Controllers
 {
     //[Route("api/User")]
-    public class UserAPIController : ApiController
+    public class Test : ApiController
     {
         public UserModel db;
         public UserAPIController()
@@ -20,11 +20,11 @@ namespace BaiGuiXe_Smart_API.Controllers
         [HttpGet]
         public IHttpActionResult Get()
         {
-            var use = db.Find("duongsang97@gmail.com");
+            var use = db.FindAll();
             return Ok(new { results = use });
         }
 
-      [HttpGet]
+        [HttpGet]
         public IHttpActionResult Getemail([FromBody] string email)
         {
             var users = db.Find(email);

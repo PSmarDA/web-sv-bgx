@@ -1,107 +1,213 @@
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\ApplicationInsights.config
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\BaiGuiXe_Smart_API.dll.config
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\BaiGuiXe_Smart_API.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\BaiGuiXe_Smart_API.pdb
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\csc.exe
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\csc.exe.config
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\csc.rsp
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\csi.exe
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\csi.exe.config
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\csi.rsp
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\Microsoft.CodeAnalysis.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\Microsoft.CSharp.Core.targets
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\Microsoft.Managed.Core.targets
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.AppContext.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.Collections.Immutable.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.Console.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.Diagnostics.StackTrace.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.IO.Compression.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.IO.FileSystem.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.IO.Pipes.AccessControl.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.IO.Pipes.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.Reflection.Metadata.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.Security.AccessControl.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.Security.Claims.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.Security.Principal.Windows.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.Text.Encoding.CodePages.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.ValueTuple.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.Xml.ReaderWriter.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.Xml.XmlDocument.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.Xml.XPath.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\System.Xml.XPath.XDocument.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\vbc.exe
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\vbc.exe.config
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\vbc.rsp
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\VBCSCompiler.exe
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\roslyn\VBCSCompiler.exe.config
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Antlr3.Runtime.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\DnsClient.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Microsoft.AI.Agent.Intercept.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Microsoft.AI.DependencyCollector.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Microsoft.AI.PerfCounterCollector.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Microsoft.AI.Web.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Microsoft.AI.WindowsServer.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Microsoft.ApplicationInsights.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Microsoft.Web.Infrastructure.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\MongoDB.Bson.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\MongoDB.Driver.Core.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\MongoDB.Driver.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Newtonsoft.Json.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Buffers.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Diagnostics.DiagnosticSource.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Net.Http.Formatting.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Runtime.InteropServices.RuntimeInformation.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.Helpers.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.Http.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.Http.WebHost.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.Mvc.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.Optimization.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.Razor.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.WebPages.Deployment.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.WebPages.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.WebPages.Razor.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\WebGrease.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\DnsClient.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\MongoDB.Bson.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\MongoDB.Driver.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\MongoDB.Driver.Core.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Newtonsoft.Json.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Net.Http.Formatting.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.Helpers.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.Http.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.Http.WebHost.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.Mvc.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.Optimization.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.Razor.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.WebPages.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.WebPages.Deployment.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Web.WebPages.Razor.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Antlr3.Runtime.pdb
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\System.Diagnostics.DiagnosticSource.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Microsoft.AI.DependencyCollector.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Microsoft.AI.WindowsServer.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Microsoft.AI.Web.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\obj\Debug\BaiGuiXe_Smart_API.csprojAssemblyReference.cache
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\obj\Debug\BaiGuiXe_Smart_API.csproj.CoreCompileInputs.cache
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\obj\Debug\BaiGuiXe_Smart_API.csproj.CopyComplete
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\obj\Debug\BaiGuiXe_Smart_API.dll
-E:\New Folder\BaiGuiXe_Smart_API\BaiGuiXe_Smart_API\obj\Debug\BaiGuiXe_Smart_API.pdb
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/ApplicationInsights.config
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/BaiGuiXe_Smart_API.dll.config
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/BaiGuiXe_Smart_API.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/BaiGuiXe_Smart_API.pdb
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/csc.exe
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/csc.exe.config
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/csc.rsp
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/csi.exe
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/csi.exe.config
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/csi.rsp
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.CodeAnalysis.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.CSharp.Core.targets
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.Managed.Core.targets
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.VisualBasic.Core.targets
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.AppContext.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.Collections.Immutable.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.Console.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.Diagnostics.StackTrace.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.IO.Compression.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.IO.FileSystem.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.IO.FileSystem.Primitives.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.IO.Pipes.AccessControl.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.IO.Pipes.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.Reflection.Metadata.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.Security.AccessControl.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.Security.Claims.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.Security.Cryptography.Encoding.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.Security.Cryptography.Primitives.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.Security.Principal.Windows.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.Text.Encoding.CodePages.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.ValueTuple.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.Xml.ReaderWriter.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.Xml.XmlDocument.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.Xml.XPath.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/System.Xml.XPath.XDocument.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/vbc.exe
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/vbc.exe.config
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/vbc.rsp
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/VBCSCompiler.exe
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/roslyn/VBCSCompiler.exe.config
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Antlr3.Runtime.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/DnsClient.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Microsoft.AI.Agent.Intercept.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Microsoft.AI.DependencyCollector.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Microsoft.AI.PerfCounterCollector.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Microsoft.AI.ServerTelemetryChannel.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Microsoft.AI.Web.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Microsoft.AI.WindowsServer.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Microsoft.ApplicationInsights.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Microsoft.AspNet.TelemetryCorrelation.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Microsoft.Web.Infrastructure.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/MongoDB.Bson.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/MongoDB.Driver.Core.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/MongoDB.Driver.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Newtonsoft.Json.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Buffers.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Diagnostics.DiagnosticSource.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Net.Http.Formatting.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Runtime.InteropServices.RuntimeInformation.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.Helpers.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.Http.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.Http.WebHost.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.Mvc.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.Optimization.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.Razor.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.WebPages.Deployment.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.WebPages.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.WebPages.Razor.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/WebGrease.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/DnsClient.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/MongoDB.Bson.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/MongoDB.Driver.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/MongoDB.Driver.Core.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Newtonsoft.Json.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Net.Http.Formatting.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.Helpers.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.Http.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.Http.WebHost.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.Mvc.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.Optimization.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.Razor.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.WebPages.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.WebPages.Deployment.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Web.WebPages.Razor.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Antlr3.Runtime.pdb
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/System.Diagnostics.DiagnosticSource.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Microsoft.AspNet.TelemetryCorrelation.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Microsoft.AI.DependencyCollector.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Microsoft.AI.WindowsServer.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Microsoft.AI.Web.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/obj/Debug/BaiGuiXe_Smart_API.csprojAssemblyReference.cache
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/obj/Debug/BaiGuiXe_Smart_API.csproj.CoreCompileInputs.cache
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/obj/Debug/BaiGuiXe_Smart_API.csproj.CopyComplete
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/obj/Debug/BaiGuiXe_Smart_API.dll
+E:/New Folder/BaiGuiXe_Smart_API/BaiGuiXe_Smart_API/obj/Debug/BaiGuiXe_Smart_API.pdb
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/ApplicationInsights.config
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/BaiGuiXe_Smart_API.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/BaiGuiXe_Smart_API.pdb
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/csc.exe
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/csc.exe.config
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/csc.rsp
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/csi.exe
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/csi.exe.config
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/csi.rsp
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.AppContext.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.Collections.Immutable.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.Console.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.IO.Compression.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.IO.FileSystem.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.IO.Pipes.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.Reflection.Metadata.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.Security.AccessControl.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.Security.Claims.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.ValueTuple.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.Xml.XPath.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/vbc.exe
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/vbc.exe.config
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/vbc.rsp
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/VBCSCompiler.exe
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/roslyn/VBCSCompiler.exe.config
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Antlr3.Runtime.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/DnsClient.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Microsoft.AI.Agent.Intercept.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Microsoft.AI.DependencyCollector.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Microsoft.AI.PerfCounterCollector.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Microsoft.AI.Web.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Microsoft.AI.WindowsServer.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Microsoft.ApplicationInsights.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Microsoft.AspNet.TelemetryCorrelation.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Microsoft.Web.Infrastructure.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/MongoDB.Bson.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/MongoDB.Driver.Core.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/MongoDB.Driver.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Newtonsoft.Json.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Buffers.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Diagnostics.DiagnosticSource.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Net.Http.Formatting.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.Helpers.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.Http.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.Http.WebHost.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.Mvc.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.Optimization.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.Razor.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.WebPages.Deployment.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.WebPages.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.WebPages.Razor.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/WebGrease.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/DnsClient.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/MongoDB.Bson.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/MongoDB.Driver.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/MongoDB.Driver.Core.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Newtonsoft.Json.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Net.Http.Formatting.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.Helpers.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.Http.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.Http.WebHost.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.Mvc.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.Optimization.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.Razor.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.WebPages.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.WebPages.Deployment.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Web.WebPages.Razor.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Antlr3.Runtime.pdb
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/System.Diagnostics.DiagnosticSource.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Microsoft.AspNet.TelemetryCorrelation.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Microsoft.AI.DependencyCollector.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Microsoft.AI.WindowsServer.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Microsoft.AI.Web.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/obj/Debug/BaiGuiXe_Smart_API.csprojAssemblyReference.cache
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/obj/Debug/BaiGuiXe_Smart_API.csproj.CoreCompileInputs.cache
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/obj/Debug/BaiGuiXe_Smart_API.csproj.CopyComplete
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/obj/Debug/BaiGuiXe_Smart_API.dll
+/Users/dzu/Documents/GitHub/web-sv-bgx/BaiGuiXe_Smart_API/obj/Debug/BaiGuiXe_Smart_API.pdb

@@ -133,16 +133,11 @@ namespace BaiGuiXe_Smart_API.Controllers
                     use.ThoiGianDangKy = Convert.ToDateTime(String.Format("{0:yyyy-MM-dd}", DateTime.Now.ToString()));
                     try
                     {
-                        usemol.Create(use);
-                        if (checklogin(use.Email, f["txtmatkhau"]) == 1)
-                        {
-                            return RedirectToAction("Index", "Home");
-                        }
-                        else
-                        {
+
+                      
                             ModelState.AddModelError("", "Đăng Ký thành công ! truy cập email của bạn để kích hoạt tài khoản ");
                             return View();
-                        }
+
                         
                     }
                     catch

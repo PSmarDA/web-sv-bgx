@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B6FE77C2-97EB-46D7-9C2B-579798543880}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BaiGuiXe_Smart_API/Controllers/UserAPIController.cs">
+    <Files>
+      <File FileName="BaiGuiXe_Smart_API/Views/Shared/_Layout.cshtml" Line="112" Column="48" />
+      <File FileName="BaiGuiXe_Smart_API/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="BaiGuiXe_Smart_API/Controllers/UserController.cs" Line="140" Column="25" />
+      <File FileName="BaiGuiXe_Smart_API/Controllers/VerificationController.cs" Line="148" Column="21" />
+      <File FileName="BaiGuiXe_Smart_API/Models/UserModel.cs" Line="1" Column="1" />
+      <File FileName="BaiGuiXe_Smart_API/Models/XacMinh/XacMinh_Model.cs" Line="49" Column="85" />
+      <File FileName="BaiGuiXe_Smart_API/Controllers/UserAPIController.cs" Line="39" Column="9" />
+      <File FileName="BaiGuiXe_Smart_API/Models/User.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BaiGuiXe__Smart__API PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
