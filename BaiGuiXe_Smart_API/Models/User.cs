@@ -8,6 +8,7 @@ using MongoDB.Bson.Serialization.Attributes;
 
 namespace BaiGuiXe_Smart_API.Models
 {
+    
     public class User
     {
         [BsonId]
@@ -16,6 +17,7 @@ namespace BaiGuiXe_Smart_API.Models
             get;
             set;
         }
+
         [Required]
         [BsonElement("Email")]
         public string Email

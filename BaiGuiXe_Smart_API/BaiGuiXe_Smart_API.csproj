@@ -206,6 +206,7 @@
     <Compile Include="Areas\QuanTriVien\QuanTriVienAreaRegistration.cs" />
     <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LoaiXeController.cs" />
     <Compile Include="Controllers\UserAPIController.cs" />
     <Compile Include="Controllers\UserController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
@@ -215,6 +216,8 @@
     </Compile>
     <Compile Include="Models\Connect_MongoDB.cs" />
     <Compile Include="Models\GoogleAPI\CaptchaResponse.cs" />
+    <Compile Include="Models\LoaiXe\LoaiXe.cs" />
+    <Compile Include="Models\LoaiXe\LoaiXe_Model.cs" />
     <Compile Include="Models\MaHoa.cs" />
     <Compile Include="Models\Slide\LinkSlide_Model.cs" />
     <Compile Include="Models\Slide\ListLink.cs" />
@@ -1762,6 +1765,7 @@
     <Content Include="Views\User\XacNhanEmail.cshtml" />
     <Content Include="Views\Verification\XacNhanEmail.cshtml" />
     <Content Include="Views\Email.cshtml" />
+    <Content Include="Views\LoaiXe\IndexHome.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

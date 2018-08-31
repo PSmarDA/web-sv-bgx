@@ -18,10 +18,10 @@ namespace BaiGuiXe_Smart_API.Controllers
         }
 
         [HttpGet]
-        public IHttpActionResult Get()
+        public User Get(string email)
         {
-            var use = db.Find("duongsang97@gmail.com");
-            return Ok(new { results = use });
+            var use = db.Find(email);
+            return use;
         }
 
       [HttpGet]

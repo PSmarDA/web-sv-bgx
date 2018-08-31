@@ -13,7 +13,7 @@ namespace BaiGuiXe_Smart_API.Models
     {
         //public MongoClient mongoclient;
         //public IMongoCollection<User> mongocollection;
-        Connect_MongoDB<User> db;
+        Connect_MongoDB<User> db; // tao chuoi ket noi tuoi collection tren mongodb ( User)
         public UserModel()
         {
             db = new Connect_MongoDB<User>("User");
