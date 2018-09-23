@@ -4,12 +4,13 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using BaiGuiXe_Smart_API.Models.BaiXe;
+using BaiGuiXe_Smart_API.Models.LoaiXe;
 
 namespace BaiGuiXe_Smart_API.Areas.QuanTriVien.Controllers
 {
     public class QuanLyController : Controller
     {
-        BaiXe_Model baixe_model = new BaiXe_Model();
+       
         // GET: QuanTriVien/QuanLy
         public ActionResult Index()
         {
@@ -19,9 +20,16 @@ namespace BaiGuiXe_Smart_API.Areas.QuanTriVien.Controllers
 
         public ActionResult QLBaiXe()
         {
+            BaiXe_Model baixe_model = new BaiXe_Model();
             var bxlist = baixe_model.FindAll();
 
             return View(bxlist);
+        }
+        public ActionResult QLLoaiXe()
+        {
+            LoaiXe_Model lx_model = new LoaiXe_Model();
+            var lxlist = lx_model.FindAll();
+            return View(lx_model);
         }
     }
 }

@@ -134,7 +134,8 @@ namespace BaiGuiXe_Smart_API.Controllers
                     try
                     {
 
-                      
+
+                            usemol.Create(use);
                             ModelState.AddModelError("", "Đăng Ký thành công ! truy cập email của bạn để kích hoạt tài khoản ");
                             return View();
 
