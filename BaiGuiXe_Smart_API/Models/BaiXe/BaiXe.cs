@@ -41,7 +41,11 @@ namespace BaiGuiXe_Smart_API.Models.BaiXe
             set;
         }
         // kiem tra
+<<<<<<< HEAD
         //kiem tra 123 4 
+=======
+		//  ábdvasdvsa
+>>>>>>> 1c82a17112a54001781c0c8bd6d91bab70969431
     }
 }
 //1235667
