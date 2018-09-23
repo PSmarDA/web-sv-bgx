@@ -1740,6 +1740,8 @@
     <Content Include="Areas\QuanTriVien\Views\Shared\_Layout.cshtml" />
     <Content Include="Areas\QuanTriVien\Views\Home\Index.cshtml" />
     <Content Include="Areas\QuanTriVien\Views\QuanLy\QLBaiXe.cshtml" />
+    <Content Include="Areas\QuanTriVien\Views\Shared\_LayoutQuanTrivien.cshtml" />
+    <Content Include="Areas\QuanTriVien\Views\Home\Login.cshtml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
