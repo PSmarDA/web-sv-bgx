@@ -39,7 +39,7 @@ namespace BaiGuiXe_Smart_API.Models.LoaiXe
         {
             //var b = db.mongocollection.Indexes.CreateOne(Builders<LoaiXe>.IndexKeys.Text(x => x.TenLoai));
             var filter = Builders<LoaiXe>.Filter.Text(tenloai);
-            var result = db.mongocollection.FindSync(filter); //lan nay ko dc la out luon nha . mai lam tiep. ok
+            var result = db.mongocollection.FindSync(filter); 
             db.mongocollection.FindSync(filter); 
             //var listten = db.mongocollection.Find(Builders<LoaiXe>.Filter.Text(tenloai)).ToList();
             
