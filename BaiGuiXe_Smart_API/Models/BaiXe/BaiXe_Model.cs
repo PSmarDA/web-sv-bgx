@@ -24,7 +24,7 @@ namespace BaiGuiXe_Smart_API.Models.BaiXe
         public void Update(BaiXe bx)
         {
             db.mongocollection.UpdateOne(
-                Builders<BaiXe>.Filter.Eq("_id", bx.Id),
+                Builders<BaiXe>.Filter.Eq("_id", bx.id),
                 Builders<BaiXe>.Update
                 .Set("DiaChi", bx.DiaChi)
                 .Set("SucChua", bx.SucChua)
