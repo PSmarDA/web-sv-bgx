@@ -15,6 +15,12 @@ namespace BaiGuiXe_Smart_API.Models.BaiXe
             db = new Connect_MongoDB<BaiXe>("BaiXe");
         }
 
+        public List<BaiXe> FindAll()
+        {
+            return db.mongocollection.AsQueryable().ToList();
+        }
+
+
         public void Create(BaiXe bx)
         {
             db.mongocollection.InsertOne(bx);
@@ -41,4 +47,3 @@ namespace BaiGuiXe_Smart_API.Models.BaiXe
         }
     }
 }
-// 123
