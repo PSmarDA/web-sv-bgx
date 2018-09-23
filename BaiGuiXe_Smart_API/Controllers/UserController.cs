@@ -57,7 +57,7 @@ namespace BaiGuiXe_Smart_API.Controllers
                     else
                     {
                         var usesession = new UserSession();
-                        usesession.Id = user_result.Id.ToString();
+                        usesession.Id = user_result.Id;
                         usesession.Ten = user_result.Ten;
                         usesession.Email = user_result.Email;
                         usesession.LoaiTaiKhoan = user_result.LoaiTaiKhoan;

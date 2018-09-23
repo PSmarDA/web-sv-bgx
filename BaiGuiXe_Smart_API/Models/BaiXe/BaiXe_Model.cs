@@ -20,6 +20,11 @@ namespace BaiGuiXe_Smart_API.Models.BaiXe
             return db.mongocollection.AsQueryable().ToList();
         }
 
+        public List<BaiXe> FindChuSoHuu(ObjectId csh)
+        {
+            return db.mongocollection.Find(x => x.ChuSoHuu == csh).ToList();
+        }
+
 
         public void Create(BaiXe bx)
         {

@@ -36,7 +36,7 @@ namespace BaiGuiXe_Smart_API.Areas.QuanTriVien.Controllers
                     if (flag.LoaiTaiKhoan == 1)
                     {
                         var usesession = new UserSession();
-                        usesession.Id = flag.Id.ToString();
+                        usesession.Id = flag.Id;
                         usesession.Ten = flag.Ten;
                         usesession.Email = flag.Email;
                         usesession.LoaiTaiKhoan = flag.LoaiTaiKhoan;

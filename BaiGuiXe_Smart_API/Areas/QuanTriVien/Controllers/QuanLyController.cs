@@ -19,9 +19,16 @@ namespace BaiGuiXe_Smart_API.Areas.QuanTriVien.Controllers
 
         public ActionResult QLBaiXe()
         {
-            var bxlist = baixe_model.FindAll();
-
-            return View(bxlist);
+            var session = (BaiGuiXe_Smart_API.Models.UserSession.UserSession)Session["loginsession"];
+            if(session != null)
+            {
+                var bxlist = baixe_model.FindChuSoHuu(session.Id);
+                return View(bxlist);
+            }
+            else
+            {
+                return View();
+            }
         }
     }
 }
