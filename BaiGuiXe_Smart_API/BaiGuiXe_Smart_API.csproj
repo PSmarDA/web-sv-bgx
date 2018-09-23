@@ -202,6 +202,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
+    <Compile Include="Areas\QuanTriVien\Controllers\BaseController.cs" />
     <Compile Include="Areas\QuanTriVien\Controllers\HomeController.cs" />
     <Compile Include="Areas\QuanTriVien\Controllers\QuanLyController.cs" />
     <Compile Include="Areas\QuanTriVien\QuanTriVienAreaRegistration.cs" />
@@ -1742,6 +1743,7 @@
     <Content Include="Areas\QuanTriVien\Views\QuanLy\QLBaiXe.cshtml" />
     <Content Include="Areas\QuanTriVien\Views\Shared\_LayoutQuanTrivien.cshtml" />
     <Content Include="Areas\QuanTriVien\Views\Home\Login.cshtml" />
+    <Content Include="Areas\QuanTriVien\Views\QuanLy\QLLoaiXe.cshtml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -1776,6 +1778,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Areas\QuanTriVien\Models\" />
+    <Folder Include="Areas\QuanTriVien\Views\Base\" />
     <Folder Include="Views\Base\" />
   </ItemGroup>
   <ItemGroup>
