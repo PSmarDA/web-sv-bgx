@@ -1739,12 +1739,7 @@
     <Content Include="Areas\QuanTriVien\assets\scss\_widgets.scss" />
     <Content Include="Areas\QuanTriVien\Views\Shared\_Layout.cshtml" />
     <Content Include="Areas\QuanTriVien\Views\Home\Index.cshtml" />
-<<<<<<< HEAD
     <Content Include="Areas\QuanTriVien\Views\QuanLy\QLBaiXe.cshtml" />
-=======
-    <Content Include="Areas\QuanTriVien\Views\Shared\_LayoutQuanTrivien.cshtml" />
-    <Content Include="Areas\QuanTriVien\Views\Home\login.cshtml" />
->>>>>>> 80644a14be8cda689674f3f63266821496c8f571
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
