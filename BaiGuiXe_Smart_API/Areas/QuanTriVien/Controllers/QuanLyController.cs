@@ -8,7 +8,7 @@ using BaiGuiXe_Smart_API.Models.LoaiXe;
 
 namespace BaiGuiXe_Smart_API.Areas.QuanTriVien.Controllers
 {
-    public class QuanLyController : Controller
+    public class QuanLyController : BaseController
     {
        
         // GET: QuanTriVien/QuanLy
