@@ -9,7 +9,7 @@ using MongoDB.Bson;
 
 namespace BaiGuiXe_Smart_API.Areas.QuanTriVien.Controllers
 {
-    public class QuanLyController : BaseController
+    public class QuanLyController : Controller
     {
        
         // GET: QuanTriVien/QuanLy
