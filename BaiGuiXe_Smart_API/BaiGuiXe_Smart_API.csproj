@@ -220,6 +220,8 @@
     <Compile Include="Models\BaiXe\BaiXe.cs" />
     <Compile Include="Models\BaiXe\BaiXe_Model.cs" />
     <Compile Include="Models\Connect_MongoDB.cs" />
+    <Compile Include="Models\GiaoDich\GiaoDich.cs" />
+    <Compile Include="Models\GiaoDich\GiaoDich_Model.cs" />
     <Compile Include="Models\GoogleAPI\CaptchaResponse.cs" />
     <Compile Include="Models\LoaiXe\LoaiXe.cs" />
     <Compile Include="Models\LoaiXe\LoaiXe_Model.cs" />
@@ -232,6 +234,8 @@
     <Compile Include="Models\UserModel.cs" />
     <Compile Include="Models\UserSession\SessionHelper.cs" />
     <Compile Include="Models\UserSession\UserSession.cs" />
+    <Compile Include="Models\VeXe\VeXe.cs" />
+    <Compile Include="Models\VeXe\VeXe_Model.cs" />
     <Compile Include="Models\XacMinh\XacMinh.cs" />
     <Compile Include="Models\XacMinh\XacMinh_Model.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
