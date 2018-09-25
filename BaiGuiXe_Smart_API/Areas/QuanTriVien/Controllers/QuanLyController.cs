@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using BaiGuiXe_Smart_API.Models.BaiXe;
 using BaiGuiXe_Smart_API.Models.LoaiXe;
+using MongoDB.Bson;
 
 namespace BaiGuiXe_Smart_API.Areas.QuanTriVien.Controllers
 {
@@ -34,9 +35,46 @@ namespace BaiGuiXe_Smart_API.Areas.QuanTriVien.Controllers
         }
         public ActionResult QLLoaiXe()
         {
+            var session = (BaiGuiXe_Smart_API.Models.UserSession.UserSession)Session["loginsession"];
             LoaiXe_Model lx_model = new LoaiXe_Model();
-            var lxlist = lx_model.FindAll();
-            return View(lx_model);
+            var lxlist = lx_model.FindChuSoHuu(session.Id);
+            return View(lxlist);
         }
+        
+        public int Themloaixe(string tenloai, string gia,ObjectId csh)
+        {
+          if(tenloai != "" || gia != "" || csh != null)
+            {
+                LoaiXe_Model lx_model = new LoaiXe_Model();
+                LoaiXe lx = new LoaiXe();
+                lx.ChuSoHuu = csh;
+                try
+                {
+                    lx.GiaTien = Convert.ToInt32(gia);
+                }
+                catch
+                {
+                    return -2; // nếu người dùng nhập giá không phải là số;
+                }
+                lx.TenLoai = tenloai;
+                try
+                {
+                    lx_model.Create(lx);
+                    return 1; // thêm loại xe thành công
+                }
+                catch
+                {
+                    return 0; // thêm thất bại
+                }
+                
+
+            }
+          else
+            {
+                return -1; // giá trị truyền vào bị rỗng
+
+            }
+        }
+
     }
 }

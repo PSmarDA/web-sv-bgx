@@ -22,6 +22,11 @@ namespace BaiGuiXe_Smart_API.Models.LoaiXe
             return db.mongocollection.AsQueryable().ToList();
         }
 
+        public List<LoaiXe> FindChuSoHuu(ObjectId csh)
+        {
+            return db.mongocollection.Find(x => x.ChuSoHuu == csh).ToList();
+        }
+
 
         public LoaiXe FindId(ObjectId id)
         {
@@ -55,8 +60,6 @@ namespace BaiGuiXe_Smart_API.Models.LoaiXe
         //Them loai xe
         public void Create(LoaiXe xe)
         {
-            var x = xe.TenLoai.ToLower();
-            xe.TenLoai = x;
             db.mongocollection.InsertOne(xe);
         }
 
@@ -68,14 +71,15 @@ namespace BaiGuiXe_Smart_API.Models.LoaiXe
                 Builders<LoaiXe>.Update
                 .Set("TenLoai", xe.TenLoai)
                 .Set("GiaTien", xe.GiaTien)
+                .Set("ChuSoHuu", xe.ChuSoHuu)
                 );
         }
 
         //Xoa
-        public void Delete(string TenLoai)
+        public void Delete(ObjectId id)
         {
             db.mongocollection.DeleteOne(
-                Builders<LoaiXe>.Filter.Eq("TenLoai", TenLoai)
+                Builders<LoaiXe>.Filter.Eq("_id", id)
                 );
         }
 

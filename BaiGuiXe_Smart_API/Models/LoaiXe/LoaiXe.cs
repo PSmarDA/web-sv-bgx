@@ -32,5 +32,12 @@ namespace BaiGuiXe_Smart_API.Models.LoaiXe
             get;
             set;
         }
+        [Required]
+        [BsonElement("ChuSoHuu")]
+        public ObjectId ChuSoHuu
+        {
+            get;
+            set;
+        }
     }
 }
